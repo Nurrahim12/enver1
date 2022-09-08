@@ -1,0 +1,79 @@
+@media all and (max-width: 1024px) {
+  .footer__list {
+    width: 40%;
+  }
+  .portfolio_title_left {
+    font-size: 60px;
+  }
+  .portfolio_item {
+    width: 30%;
+  }
+  .portfolio_item > img {
+    width: 100%;
+  }
+  .header_title_left {
+    font-size: 60px;
+  }
+  .navbar_list {
+    width: 40%;
+  }
+  .header__btn {
+    width: 50%;
+  }
+  .info__block_title {
+    font-size: 50px;
+  }
+  /*.block__service {
+  }*/
+}
+@media all and (max-width: 768px) {
+  .header_block_right {
+    width: 60%;
+  }
+  .header__img {
+    width: 100%;
+    height: 100%;
+  }
+  #vector_1 {
+    left: 10px;
+  }
+  #vector_3 {
+    left: -10px;
+  }
+  .header__title_left,
+  .services__title_main,
+  .info__block_title {
+    font-size: 40px;
+  }
+  .services__title_main {
+    margin-top: 60px;
+  }
+  .services__item {
+    width: 30%;
+  }
+  .navbar__list {
+    width: 50%;
+  }
+  .header__btn {
+    width: 60%;
+  }
+  .portfolio__title {
+    font-size: 50px;
+  }
+  .portfolio__list {
+    padding: 0;
+  }
+  .info__block_btn {
+    width: 25%;
+  }
+  .footer__list {
+    width: 25%;
+    font-size: 15px;
+    justify-content: center;
+  }
+  .footer__info {
+    width: 30%;
+    font-size: 15px;
+    text-align: center;
+  }
+}
